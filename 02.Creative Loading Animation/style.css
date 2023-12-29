@@ -31,7 +31,7 @@ body {
 }
 
 .loader .loading.one {
-  animation-delay: 0.3s;
+  animation-delay: 0.3s; /*defines when the animation will start for this element */
 }
 .loader .loading.two {
   animation-delay: 0.4s;
